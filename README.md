@@ -1,4 +1,4 @@
-# Ephesus Unreal en Welcome to the Unreal Engine 5 project featuring the ancient city of Ephesus. This project showcases a walkable environment where you can explore the historic city, interact with NPCs, and experience realistic time cycles.
+# Welcome to the Unreal Engine 5 project featuring the ancient city of Ephesus. This project showcases a walkable environment where you can explore the historic city, interact with NPCs, and experience realistic time cycles.
 
 Features
 Walkable Environment: Navigate through the meticulously recreated ancient city of Ephesus.
